@@ -9,7 +9,7 @@ Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker 
 My main programming languages/platforms are:
 - Java
 - C
-- Pythoon
+- Python
 
 But I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
 
