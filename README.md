@@ -1,9 +1,22 @@
 ### Hi, I'm Sergio 👋👨‍💻
 
-Currently, I'm studying mobile and space communications engineering at the University Carlos III de Madrid (Spain)📡🛰
-Also, I am working in Getronics as help desker and systems technician for the university but I like to program, either in my professional life or on my own in different personal projects.
+Currently, I'm studying mobile and space communications engineering at the [University Carlos III de Madrid](https://www.uc3m.es/Inicio) (Spain)📡🛰
 
-My main programming languages/platforms?: Java, C & Pythoon.  
+Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker and systems technician 💻 for the university 
+
+## How do I like program?
+
+My main programming languages/platforms are:
+- Java
+- C
+- Pythoon
+
+But I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
+
+For anything, you can contact me using:
+- Email 📧: sergiom.perezprieto@gmail.com
+- LinkedIn: https://es.linkedin.com/in/sergiompérez
+
 <!-- But I want to
 **sergiompp/sergiompp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
