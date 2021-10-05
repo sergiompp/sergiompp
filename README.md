@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi, I'm Sergio 👋👨‍💻
 
-<!--
+Currently, I'm studying mobile and space communications engineering at the University Carlos III de Madrid (Spain)📡🛰
+Also, I am working in Getronics as help desker and systems technician for the university but I like to program, either in my professional life or on my own in different personal projects.
+
+My main programming languages/platforms?: Java, C & Pythoon.  
+<!-- But I want to
 **sergiompp/sergiompp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
