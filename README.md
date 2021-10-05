@@ -2,7 +2,8 @@
 
 Currently, I'm studying mobile and space communications engineering at the [University Carlos III de Madrid](https://www.uc3m.es/Inicio) (Spain)📡🛰
 
-Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker and systems technician 💻 for the university 
+Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker and systems technician 💻 for the university but I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
+ 
 
 ## How do I like program?
 
@@ -10,8 +11,6 @@ My main programming languages/platforms are:
 - Java
 - C
 - Python
-
-But I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
 
 For anything, you can contact me using:
 - Email 📧: sergiom.perezprieto@gmail.com
