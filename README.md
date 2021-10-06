@@ -14,13 +14,22 @@ My main programming languages/platforms are:
 - C
 - Python
 
-## How do you can contact with me?
+And... What other programming languages do I want to learn? Well:
+- [ ] Javascript
+- [ ] Swift
+- [ ] C ++
+- [ ] Ruby
+- [ ] \(Feel free to suggest me)
+
+
+
+## 📫 How do you can contact with me?
 
 For anything, you can use:
 - Email 📧: sergiom.perezprieto@gmail.com
 - LinkedIn: https://es.linkedin.com/in/sergiompérez
 
-<!-- But I want to
+<!-- 
 **sergiompp/sergiompp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
