@@ -4,7 +4,7 @@ Currently, I'm studying mobile and space communications engineering at the [Univ
 
 Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker and systems technician 💻 for the university but I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
 
-My main interests are energy, finances, robotics, electronics, home automation and programming and I believe very strongly that everything can be connected to each other in order to make a better world where we can live.
+My main interests are energy, finances, robotics, electronics, home automation and programming and I believe very strongly that everything of these themes can be connected to each other in order to make a better world where we can live.
  
 
 ## How do I like program?
