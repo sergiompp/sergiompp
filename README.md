@@ -1,4 +1,4 @@
-# Hi, I'm Sergio 👋👨‍💻
+# Hi! I'm Sergio 👋👨‍💻
 
 Currently, I'm studying mobile and space communications engineering at the [University Carlos III de Madrid](https://www.uc3m.es/Inicio) (Spain)📡🛰 although I am also an electronic technician 🔌.
 
