@@ -14,7 +14,9 @@ My main programming languages/platforms are:
 - C
 - Python
 
-For anything, you can contact me using:
+# How do you can contact with me?
+
+For anything, you can use:
 - Email 📧: sergiom.perezprieto@gmail.com
 - LinkedIn: https://es.linkedin.com/in/sergiompérez
 
