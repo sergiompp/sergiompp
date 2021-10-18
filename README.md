@@ -7,7 +7,7 @@ Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker 
 My main interests are energy, finances, robotics, electronics, home automation and programming and I believe very strongly that everything of these themes can be connected to each other in order to make a better world where we can live.
  
 
-## How do I like program?
+## 💻 How do I like program?
 
 My main programming languages/platforms are:
 - Java
