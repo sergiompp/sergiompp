@@ -2,7 +2,7 @@
 
 Currently, I'm studying mobile and space communications engineering at the [University Carlos III de Madrid](https://www.uc3m.es/Inicio) (Spain)📡🛰 although I am also an electronic technician 🔌.
 
-Also, I am working in [Getronics](https://www.getronics.com/es/) as help desker and systems technician 💻 for the university but I like to program, either in my professional life or on my own in different personal projects like app for Android, Arduino or use a Raspberry.
+I'm working in [Akkodis](https://www.akkodis.com) as a telecommunication engineer 📡💻 but I like to code either in my professional life or on my own in different personal projects like android app, Arduino or use a Raspberry.
 
 My main interests are energy, finances, robotics, electronics, home automation and programming and I believe very strongly that everything of these themes can be connected to each other in order to make a better world where we can live.
  
